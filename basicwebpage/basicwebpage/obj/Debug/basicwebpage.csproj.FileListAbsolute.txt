@@ -1,0 +1,6 @@
+C:\Users\ankit.panchal\Documents\Visual Studio 2013\Projects\basicwebpage\basicwebpage\obj\Debug\basicwebpage.csprojResolveAssemblyReference.cache
+C:\Users\ankit.panchal\Documents\Visual Studio 2013\Projects\basicwebpage\basicwebpage\bin\basicwebpage.dll.config
+C:\Users\ankit.panchal\Documents\Visual Studio 2013\Projects\basicwebpage\basicwebpage\bin\basicwebpage.dll
+C:\Users\ankit.panchal\Documents\Visual Studio 2013\Projects\basicwebpage\basicwebpage\bin\basicwebpage.pdb
+C:\Users\ankit.panchal\Documents\Visual Studio 2013\Projects\basicwebpage\basicwebpage\obj\Debug\basicwebpage.dll
+C:\Users\ankit.panchal\Documents\Visual Studio 2013\Projects\basicwebpage\basicwebpage\obj\Debug\basicwebpage.pdb
